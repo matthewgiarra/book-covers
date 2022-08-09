@@ -1,0 +1,11 @@
+name: book-covers
+
+dependencies:
+  - python=3.8
+  - jupyter
+  - matplotlib
+  - numpy
+  - pillow
+  - pip
+  - pip:
+    - PyPDF2
